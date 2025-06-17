@@ -40,7 +40,7 @@ A responsive web platform where students can upload and access academic notes.
 
 ## 📚 Education
 
-- **B.Tech (Mechanical Engineering)**, Delhi Technological University (DTU), 2022–2026 | CGPA: 6.5  
+- **B.Tech (Mechanical Engineering)**, Delhi Technological University (DTU), 2022–2026
 - **Class XII**, SBB Mukund Govt Vidyalaya, 2022 
 - **Class X**, SBB Mukund Govt Vidyalaya, 2020 
 
